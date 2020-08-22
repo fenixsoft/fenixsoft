@@ -23,4 +23,4 @@
   - [阿里云最有价值技术专家（MVP）](https://mvp.aliyun.com/mvp/detail/487)
   - [InfoQ.CN专栏撰稿人](https://www.infoq.cn/profile/1278833/publish)
 
-[![IcyFenix's Github Stats](https://github-readme-stats.vercel.app/api?username=fenixsoft&show_icons=true&hide=contribs,prs)](https://github.com/fenixsoft)
+[![IcyFenix's Github Stats](https://github-readme-stats.vercel.app/api?username=fenixsoft&show_icons=true&hide=contribs,prs)](https://icyfenix.cn)

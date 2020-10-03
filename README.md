@@ -1,5 +1,3 @@
-<font size=5><b>周志明　</b></font>[github](https://github.com/fenixsoft)、[weibo](https://weibo.com/icyfenix)、[email](mailto:icyfenix@gmail.com)
-
 - 80后 程序员<br/>
   职业是上市公司的高级管理人员；兴趣永远是当一名纯粹的程序员。<br/>工作中主要从事大型企业级软件的研发；业余里对计算机科学相关的多个领域都有持续跟进。
   

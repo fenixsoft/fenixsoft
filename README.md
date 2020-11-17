@@ -20,4 +20,8 @@
   - [华为云最有价值技术专家（MVP）](https://developer.huaweicloud.com/mvp)
   - [IBM DeveloperWorks撰稿人]()、[InfoQ.CN专栏撰稿人](https://www.infoq.cn/profile/1278833/publish)、[极客时间布道师](https://time.geekbang.org/)
 
-[![IcyFenix's Github Stats](https://github-readme-stats.vercel.app/api?username=fenixsoft&show_icons=true&hide=contribs,prs)](https://icyfenix.cn)
+<p align="right">
+  <a href="http://icyfenix.cn">
+    <img src="https://github-readme-stats.vercel.app/api?username=fenixsoft&show_icons=true&hide=contribs,prs" />
+  </a>
+</p>

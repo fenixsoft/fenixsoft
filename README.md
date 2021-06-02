@@ -16,13 +16,13 @@
   - 2011年 《[深入理解Java虚拟机：JVM高级特性与最佳实践（第一版）](https://book.douban.com/subject/6522893/)》（豆瓣 8.6）
   - 2011年 《[Java虚拟机规范 （Java SE 7中文版）](https://www.iteye.com/topic/1117824)》 （开源文档）
 
-- 技术布道师<br/>
+- 开发布道师<br/>
   开源技术的积极倡导者和推动者，国内主流云计算厂商的最有价值技术专家，媒体撰稿人，会议讲师。
   - [阿里云最有价值技术专家（MVP）](https://mvp.aliyun.com/mvp/detail/487)
   - [腾讯云最有价值技术专家（TVP）](https://cloud.tencent.com/tvp/132)
   - [华为云最有价值技术专家（MVP）](https://developer.huaweicloud.com/mvp/member)
   - [IBM DeveloperWorks撰稿人]()、[InfoQ.CN专栏撰稿人](https://www.infoq.cn/profile/CD59DD20F93F11/publish)
-  - [极客时间布道师](https://time.geekbang.org/opencourse/intro/100064201)、[QCon全球开发者大会明星讲师](https://qcon.infoq.cn/2020/shenzhen/)
+  - [极客时间布道师](https://time.geekbang.org/opencourse/intro/100064201)、[华章25周年公益课程讲师](https://xie.infoq.cn/article/36ec9efa0697377af0d043b1e)、[QCon全球开发者大会明星讲师](https://qcon.infoq.cn/2020/shenzhen/)
 
 <a href="https://icyfenix.cn">
 <br/>

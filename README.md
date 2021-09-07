@@ -5,7 +5,7 @@
   理学博士，曾担任远光软件研究院院长、澳门科大-远光人工智能联合实验室主任，研究方向为机器学习自动化特征选择。
   
 - 计算机技术作家<br/>出版过八部计算机技术书籍，撰写过两部开源文档，口碑和销量均得到业内认可。其中五本书在[豆瓣](https://www.douban.com/)上获得了 9.0 分或以上的评价，“深入理解 Java 虚拟机”系列重印超过 45 次，总销量逾 40 万册。
-  - 2021年 《[凤凰架构：构建可靠的大型分布式系统](https://icyfenix.cn/introduction/about-book.html)》（豆瓣 9.5）
+  - 2021年 《[凤凰架构：构建可靠的大型分布式系统](https://icyfenix.cn/introduction/about-book.html)》（豆瓣 9.2）
   - 2020年 《[软件架构探索：The Fenix Project](https://icyfenix.cn/)》 （开源文档）
   - 2019年 《[深入理解 Java 虚拟机：JVM 高级特性与最佳实践（第三版）](https://book.douban.com/subject/34907497/)》（豆瓣 9.5）
   - 2018年 《[智慧的疆界：从图灵机到人工智能](https://book.douban.com/subject/30379536/)》（豆瓣 9.1）
@@ -30,3 +30,7 @@
 ![](https://github.com/fenixsoft/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/fenixsoft/github-stats/blob/master/generated/languages.svg)
 </a>
+
+**招聘、内推**：<br/>
+对大型软件架构、云原生、实时大数据、企业级软件研发感兴趣的同学，欢迎投简历至：felix.zhouzhiming[at]huawei[dot]com。<br/>
+团队气氛、水平都很好，对标范围华为18-22级，正编非OD。<br/>
